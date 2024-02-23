@@ -1,3 +1,3 @@
 # Swift UI Views
 Playing around with **XCcode** and **Swift** UI `Views` and other desgin stuff<br>
-![Screenshot 2024-02-23 at 8 17 36 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/0b682e8a-e4ae-4272-9c4f-c5b9b39fd230)<br>
+![Screenshot 2024-02-23 at 8 22 24 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/8c0d1025-7fac-4cb0-b6b7-43abe78bcd86)<br>
