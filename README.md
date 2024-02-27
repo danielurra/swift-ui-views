@@ -24,3 +24,5 @@ struct ContentView: View {
     ContentView()
 }
 ```
+## Modifiers
+![modifiers](https://github.com/danielurra/swift-ui-views/assets/51704179/12e045e8-5365-4349-af7a-f6bda8892b81)<br>
