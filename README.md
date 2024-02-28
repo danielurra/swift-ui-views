@@ -27,3 +27,7 @@ struct ContentView: View {
 ```
 ## Modifiers
 ![modifiers](https://github.com/danielurra/swift-ui-views/assets/51704179/12e045e8-5365-4349-af7a-f6bda8892b81)<br>
+## VStack, HStack and ZStack
+* Vertical Stack
+* Horizontal Stack
+* ZStack = 3rd plane (same as "layers" in Graphic Design)
