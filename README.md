@@ -32,3 +32,5 @@ struct ContentView: View {
 * Horizontal Stack
 * ZStack = 3rd plane (same as "layers" in Graphic Design)
 ![Screenshot 2024-02-28 at 5 27 52 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/de0867a4-1ddc-41c6-84f0-ec9e927db1a3)<br>
+## Embed (sourround)
+![Screenshot 2024-02-28 at 5 40 42 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/2d65eee4-6e15-4547-a7b8-bc7e2c1250f2)<br>
