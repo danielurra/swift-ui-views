@@ -31,6 +31,21 @@ struct ContentView: View {
 * Vertical Stack
 * Horizontal Stack
 * ZStack = 3rd plane (same as "layers" in Graphic Design)
+### ZStack - Sold Out effect
+![Screenshot 2024-02-29 at 5 56 52 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/dd27bfe4-3e8c-4a93-b489-228e64d4bcca)<br>
+### Grab the code
+```swift
+ZStack {
+                    Text("🎤")
+                        .font(.system(size: 100))
+                    Text("Sold Out")
+                        .bold()
+                        .foregroundStyle(.red)
+                        .font(.system(size: 50))
+                        .rotationEffect(.degrees(-15))
+                }
+```
+
 ![Screenshot 2024-02-28 at 5 27 52 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/de0867a4-1ddc-41c6-84f0-ec9e927db1a3)<br>
 ## Embed (surround)
 ![Screenshot 2024-02-28 at 5 40 42 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/2d65eee4-6e15-4547-a7b8-bc7e2c1250f2)<br>
