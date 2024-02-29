@@ -36,3 +36,10 @@ struct ContentView: View {
 ![Screenshot 2024-02-28 at 5 40 42 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/2d65eee4-6e15-4547-a7b8-bc7e2c1250f2)<br>
 ## Spacers
 ![Screenshot 2024-02-28 at 5 42 31 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/48404dd4-4354-4a71-b6dd-33f0a6badccd)<br>
+## Emojis
+Press `Ctrl` + `CMD` + `Spacebar` to open the **emojis** palette.<br>
+![Screenshot 2024-02-29 at 4 59 59 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/77156d6d-04db-481e-bcc7-541dfb5f3e03)<br>
+### Use **emojis** as **text**<br>
+![Screenshot 2024-02-29 at 5 01 47 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/b539cb5d-3ebc-41df-beae-0bb5826666f5)
+
+
