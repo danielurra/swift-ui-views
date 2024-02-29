@@ -40,6 +40,51 @@ struct ContentView: View {
 Press `Ctrl` + `CMD` + `Spacebar` to open the **emojis** palette.<br>
 ![Screenshot 2024-02-29 at 4 59 59 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/77156d6d-04db-481e-bcc7-541dfb5f3e03)<br>
 ### Use **emojis** as **text**<br>
-![Screenshot 2024-02-29 at 5 01 47 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/b539cb5d-3ebc-41df-beae-0bb5826666f5)
+![Screenshot 2024-02-29 at 5 01 47 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/b539cb5d-3ebc-41df-beae-0bb5826666f5)<br>
+### Grab the code
+```swift
+import SwiftUI
+// Basic view
+struct ContentView: View {
+    var body: some View {
+        ZStack {
+            //            emojis Ctrl + CMD + Spacebar
+            VStack {
+                Spacer()
+                HStack {
+                    Spacer()
+                    Text("🎮")
+                        .font(.largeTitle)
+                    Spacer()
+                    Text("🛩️")
+                        .font(.largeTitle)
+                    Spacer()
+                    Text("🧸")
+                        .font(.largeTitle)
+                    Spacer()
+                    Text("🎸")
+                        .font(.largeTitle)
+                    Spacer()
+                }
+            }
+        }
+        
+    }
+}
+
+#Preview {
+    ContentView()
+}
+
+//Text("Tap me")
+//    .padding()
+//    .background(Color.blue)
+//    .foregroundStyle(.white)
+//    .clipShape(RoundedRectangle(cornerRadius: 20))
+//    .font(.largeTitle)
+
+
+
+```
 
 
