@@ -59,11 +59,9 @@ Press `Ctrl` + `CMD` + `Spacebar` to open the **emojis** palette.<br>
 ### Grab the code
 ```swift
 import SwiftUI
-// Basic view
 struct ContentView: View {
     var body: some View {
-        ZStack {
-            //            emojis Ctrl + CMD + Spacebar
+    // emojis Ctrl + CMD + Spacebar
             VStack {
                 Spacer()
                 HStack {
@@ -81,25 +79,13 @@ struct ContentView: View {
                         .font(.largeTitle)
                     Spacer()
                 }
-            }
-        }
-        
+         }
     }
 }
 
 #Preview {
     ContentView()
 }
-
-//Text("Tap me")
-//    .padding()
-//    .background(Color.blue)
-//    .foregroundStyle(.white)
-//    .clipShape(RoundedRectangle(cornerRadius: 20))
-//    .font(.largeTitle)
-
-
-
 ```
 
 
