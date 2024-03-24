@@ -53,6 +53,7 @@ ZStack {
 ![Screenshot 2024-02-28 at 5 42 31 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/48404dd4-4354-4a71-b6dd-33f0a6badccd)<br>
 ## Emojis
 Press `Ctrl` + `CMD` + `Spacebar` to open the **emojis** palette.<br>
+<br>
 ![emojis](https://github.com/danielurra/swift-ui-views/assets/51704179/ea336271-bdd5-4d8e-8a13-2a47fc8f9133)<br>
 ![Screenshot 2024-02-29 at 4 59 59 AM](https://github.com/danielurra/swift-ui-views/assets/51704179/77156d6d-04db-481e-bcc7-541dfb5f3e03)<br>
 ### Use **emojis** as **text**<br>
